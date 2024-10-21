@@ -1,4 +1,4 @@
-package com.bptn.course.junit_books;
+package com.bptn.course._16_junit_books;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;

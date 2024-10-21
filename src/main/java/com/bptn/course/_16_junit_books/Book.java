@@ -1,4 +1,4 @@
-package com.bptn.course.junit_books;
+package com.bptn.course._16_junit_books;
 
 public class Book {
     private String title;
